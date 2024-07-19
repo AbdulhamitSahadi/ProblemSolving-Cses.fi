@@ -1,6 +1,7 @@
 //Author : Abdulhamit Sahadi
 //Created: July 19, 2024
 //Problem Link: https://cses.fi/problemset/task/1068
+
 #include<iostream>
 using namespace std;
 
