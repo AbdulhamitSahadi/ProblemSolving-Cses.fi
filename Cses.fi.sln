@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.MissingNumber", "2.Missin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.Repetitions", "3.Repetitions\3.Repetitions.vcxproj", "{E7921FC6-3CFB-4C62-81BA-64298A39115B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.RepetitionsUsingDynamicProgramming", "3.RepetitionsUsingDynamicProgramming\3.RepetitionsUsingDynamicProgramming.vcxproj", "{D6F011BD-11EB-49AE-8190-DCFAE0E17F7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{E7921FC6-3CFB-4C62-81BA-64298A39115B}.Release|x64.Build.0 = Release|x64
 		{E7921FC6-3CFB-4C62-81BA-64298A39115B}.Release|x86.ActiveCfg = Release|Win32
 		{E7921FC6-3CFB-4C62-81BA-64298A39115B}.Release|x86.Build.0 = Release|Win32
+		{D6F011BD-11EB-49AE-8190-DCFAE0E17F7F}.Debug|x64.ActiveCfg = Debug|x64
+		{D6F011BD-11EB-49AE-8190-DCFAE0E17F7F}.Debug|x64.Build.0 = Debug|x64
+		{D6F011BD-11EB-49AE-8190-DCFAE0E17F7F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6F011BD-11EB-49AE-8190-DCFAE0E17F7F}.Debug|x86.Build.0 = Debug|Win32
+		{D6F011BD-11EB-49AE-8190-DCFAE0E17F7F}.Release|x64.ActiveCfg = Release|x64
+		{D6F011BD-11EB-49AE-8190-DCFAE0E17F7F}.Release|x64.Build.0 = Release|x64
+		{D6F011BD-11EB-49AE-8190-DCFAE0E17F7F}.Release|x86.ActiveCfg = Release|Win32
+		{D6F011BD-11EB-49AE-8190-DCFAE0E17F7F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
